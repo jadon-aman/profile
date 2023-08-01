@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cypheraman
 - 👀 I’m interested in COMPUTER SCIENCE
-- 🌱 I’m currently learning LEARNING HACKS
+- 🌱 I’m currently LEARNING HACKS
 - 📫 How to reach me cypheraman@gmail.com
 
 <!---
