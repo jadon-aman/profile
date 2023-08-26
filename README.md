@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cypheraman
+- 👋 Hi, I’m @amanjadon
 - 👀 I’m interested in COMPUTER SCIENCE
 - 🌱 I’m currently LEARNING HACKS
-- 📫 How to reach me cypheraman@gmail.com
+- 📫 How to reach me iasamanjadon@gmail.com
 
 <!---
 cypheraman/cypheraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
